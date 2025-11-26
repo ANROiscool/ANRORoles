@@ -105,7 +105,7 @@ const roleDescriptions = {
     },
     "ANRO Development Official": {
         description: "Responsible for working on the ANRO multicenter, ANRO's game for orientation.",
-        requirements: "Become an MR and wait for ANRD apps to arrive.",
+        requirements: "Be Probationary+ in NEDI and request in the #access-request-anro channel within the NEDI server.",
         points: "N/A",
         category: "departments"
     },
